@@ -1,0 +1,37 @@
+[class *= "col-"]{
+    height: 100px;
+}
+
+.bg-1{
+    background-color: darkcyan;
+}
+.bg-2{
+    background-color: darkgoldenrod;
+}
+.bg-3{
+    background-color: darkgreen;
+}
+.bg-4{
+    background-color: darkorchid;
+}
+.bg-5{
+    background-color: deepskyblue;
+}
+.bg-6{
+    background-color: fuchsia;
+}
+.bg-7{
+    background-color: greenyellow;
+}
+.bg-8{
+    background-color: lime;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+
+.btn-danger {
+    background-color: mediumorchid;
+}
